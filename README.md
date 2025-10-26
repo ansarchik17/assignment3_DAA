@@ -39,17 +39,8 @@ It simulates optimizing a **city transportation network** by minimizing road con
 
 ## 📊 Experimental Results
 
-graph_id,algo,total_cost,execution_time_ms,operations_count,vertices,edges
-1,Prim,16.0000,1.52,57,5,7
-1,Kruskal,16.0000,1.20,75,5,7
-2,Prim,24.0000,0.03,67,6,8
-2,Kruskal,24.0000,0.05,96,6,8
-3,Prim,31.0000,0.03,91,8,10
-3,Kruskal,31.0000,0.04,135,8,10
-4,Prim,40.0000,0.04,93,9,10
-4,Kruskal,40.0000,0.04,139,9,10
-5,Prim,41.0000,0.03,107,10,11
-5,Kruskal,41.0000,0.05,165,10,11
+<img width="754" height="421" alt="Screenshot 2025-10-26 at 23 27 13" src="https://github.com/user-attachments/assets/12e1adb5-ec1e-49eb-999f-87b5a42b6777" />
+
 
 ---
 
